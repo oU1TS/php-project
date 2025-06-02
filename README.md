@@ -1,4 +1,4 @@
-# 🚀 CodeCraft Studios – Review Submission Landing Page
+# 🚀 CodeCraft Studios – A Software Developing Agency Landing Page
 
 **A Software Development Organization Landing Page**  
 Built with **HTML**, **CSS**, **JavaScript**, and **PHP**
