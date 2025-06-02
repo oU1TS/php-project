@@ -42,6 +42,11 @@ The interface dynamically updates based on the user’s login state, showing “
 - ✅ **Small businesses** collecting customer feedback
 
 ---
+## 🌐 Live Site
+
+You can view the live version of the project here:  
+👉 https://codecraftstudios.great-site.net/
+
 
 
 
