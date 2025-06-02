@@ -1,0 +1,99 @@
+
+a>img {
+    width: 100px;
+}
+
+.home-link {
+    position: absolute;
+    color: black;
+    font-size: 20px;
+}
+.form-div {
+    background-color: #f0f2f5;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    background-image: url(./images/login-bg.png);
+}
+
+.login-container {
+    background-color: white;
+    border: 1px solid #ddddddfc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 25px;
+    width: 300px;
+    text-align: center;
+}
+
+
+h1 {
+    margin-bottom: 16px;
+    font-size: 20px;
+    color: #3b3a3a;
+}
+
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.login-form label {
+    margin-bottom: 4px;
+    text-align: left;
+    font-weight: bold;
+    color: #595757;
+}
+
+
+.login-form input {
+    padding: 6px;
+    margin-bottom: 16px;
+    border: 1px solid #cccccceb;
+    border-radius: 4px;
+    font-size: 17px;
+}
+
+
+
+
+.btn {
+    padding: 10px;
+    margin-top: 5px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 17px;
+    
+}
+
+.loginBtn {
+    background-color: tomato;
+    color: white;
+}
+
+.loginBtn:hover {
+    background-color: #0056b3;
+}
+
+.reset-btn {
+    background-color: #6c757d;
+    color: white;
+}
+
+.reset-btn:hover {
+    background-color: #5a6268;
+}
+
+
+#message {
+    margin-top: 16px;
+    font-weight: bold;
+    
+}
+
+
